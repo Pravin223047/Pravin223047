@@ -279,22 +279,6 @@ Web Designing Competition.
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pravin223047&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin223047&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Pravin223047&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
 ## Beyond Technology
 
 <table>
